@@ -1,0 +1,372 @@
+{
+  "Kathmandu": {
+    "Kathmandu Metro 10 - New Baneshwor Area": [
+      "Apex College Area - Pipal Bot",
+      "Bijuli Bazar",
+      "Buddhanagar",
+      "Civil Hospital Area",
+      "Ekta Marg",
+      "New Baneshwor Chowk",
+      "Ratna Rajya Area",
+      "Shankhamul Area",
+      "Thapagaun Area"
+    ],
+    "Kathmandu Metro 11 - Maitighar Area": [
+      "Babarmahal",
+      "Maitighar",
+      "Shahid Gate",
+      "Thapathali",
+      "Tripureshwor"
+    ],
+    "Kathmandu Metro 12 - Teku Area": [
+      "Teku"
+    ],
+    "Kathmandu Metro 13 - Kalimati Area": [
+      "Bafal",
+      "Kalimati",
+      "Soalteemode",
+      "Tahachal",
+      "Tankeshwor"
+    ],
+    "Kathmandu Metro 14 - Kuleshwor Area": [
+      "Balkhu",
+      "Kalanki Chowk",
+      "Kuleshwor",
+      "Ravi Bhawan"
+    ],
+    "Kathmandu Metro 15 - Swayambhu Area": [
+      "Bahiti",
+      "Bijeshwori",
+      "Chhauni",
+      "Dallu",
+      "Kimdol",
+      "Sobhabhagawati",
+      "Swayambhu - Bhuikhel"
+    ],
+    "Kathmandu Metro 16 - Nayabazar Area": [
+      "Balaju - Bypass",
+      "Balaju Chauki",
+      "Balaju Chowk",
+      "Balaju - Machha Pokhari",
+      "Banasthali",
+      "Banasthali Dhungedhara",
+      "Kaldhara",
+      "Khusibu",
+      "Paknajol",
+      "People's Dental Campus Area",
+      "Sorhakhutte"
+    ],
+    "Kathmandu Metro 17 - Chhetrapati Area": [
+      "Chhetrapati",
+      "Dhalko",
+      "Dhobichaur"
+    ],
+    "Kathmandu Metro 18 - Raktakali Area": [
+      "Bhurungkhel",
+      "Raktakali"
+    ],
+    "Kathmandu Metro 19 - Hanumandhoka Area": [
+      "Hanumandhoka",
+      "Tamsipakha"
+    ],
+    "Kathmandu Metro 1 - Naxal Area": [
+      "Durbarmarg",
+      "Hattisar Area",
+      "Jamal",
+      "Kamal Pokhari Area",
+      "Kantipath",
+      "Naxal Bhagwati Bahal Area",
+      "Naxal Narayan Chour"
+    ],
+    "Kathmandu Metro 20 - Marutol Area": [
+      "Jaishidebal",
+      "Marutole"
+    ],
+    "Kathmandu Metro 21 - Lagantole Area": [
+      "Ikubahal",
+      "Lagantole",
+      "Tebahal"
+    ],
+    "Kathmandu Metro 22 - Newroad Area": [
+      "Dharmapath",
+      "Khichhapokhari",
+      "Newroad",
+      "Om Bahal Area",
+      "Sundhara"
+    ],
+    "Kathmandu Metro 23 - Basantapur Area": [
+      "Basantapur"
+    ],
+    "Kathmandu Metro 24 - Indrachowk Area": [
+      "Indrachowk",
+      "Naradevi"
+    ],
+    "Kathmandu Metro 25 - Ason Area": [
+      "Ason",
+      "Kilagal",
+      "Tengal"
+    ],
+    "Kathmandu Metro 26 - Samakhusi Area": [
+      "Gongabu Chowk",
+      "Kapurdhara",
+      "Mehpi",
+      "Mitra Nagar",
+      "Nayabus park",
+      "Ranibari",
+      "Samakhusi",
+      "Thamel"
+    ],
+    "Kathmandu Metro 27 - Bhotahiti Area": [
+      "Bhotahiti",
+      "Kamalakshi"
+    ],
+    "Kathmandu Metro 28 - Bagbazar Area": [
+      "Bagbazar",
+      "Bhrikutimandap",
+      "Ratnapark",
+      "Bir Hospital",
+      "Kamaladi",
+      "Tundikhel"
+    ],
+    "Kathmandu Metro 29 - Anamnagar Area": [
+      "Anamnagar",
+      "Ghattekulo",
+      "Singha Durbar",
+      "Bhaktapur Buspark",
+      "Exhibition Road",
+      "Newplaza Area",
+      "Putalisadak"
+    ],
+    "Kathmandu Metro 30 - Maitidevi Area": [
+      "Dillibazar Pipalbot",
+      "Gyaneshwor",
+      "Maitidevi"
+    ],
+    "Kathmandu Metro 31 - Min Bhawan Area": [
+      "Aloknagar",
+      "Bhimsengola",
+      "Chhitij Nagar",
+      "Katyani Chowk Area",
+      "Milan Chowk Area",
+      "Min Bhawan",
+      "Shantinagar"
+    ],
+    "Kathmandu Metro 32 - Koteshwor Area": [
+      "Jadibuti Area",
+      "Kandaghari",
+      "Koteshwor Chowk",
+      "Mahadevsthan",
+      "Narephat",
+      "Pepsicola Area",
+      "Subidhanagar",
+      "Tinkune"
+    ],
+    "Kathmandu Metro 3 - Baluwatar Area": [
+      "Baluwatar",
+      "Lamtangin Marg",
+      "Pabitra Workshop Area",
+      "Panchakanya School Area",
+      "Panipokhari",
+      "Basundhara inside ringroad area",
+      "Narayan Gopal Chowk Area",
+      "Teaching Hospital",
+      "Maharajgunj"
+    ],
+    "Kathmandu Metro 4 - Bishalnagar Area": [
+      "Bishalnagar",
+      "Chandol",
+      "Chapal Karkhana",
+      "Chun Devi",
+      "Dhumbarahi Chowk",
+      "Dhumbarahi Pipalbot",
+      "Sukedhara"
+    ],
+    "Kathmandu Metro 5 - Tangal Area": [
+      "Bhatbhateni",
+      "Handigaun",
+      "Maligaun",
+      "Sano Gaucharan",
+      "Tangal"
+    ],
+    "Kathmandu Metro 7 - Chabahil Area": [
+      "Chabahil-Bhatkekopul",
+      "Chabahil Chowk",
+      "Chabahil -Ganeshthan",
+      "Chuchepati",
+      "Gangahiti",
+      "Gaurighat",
+      "Gopikrishna Hall Area",
+      "Kalopul",
+      "Kumaristhan",
+      "Maijubahal",
+      "Mitrapark",
+      "Siphal"
+    ],
+    "Kathmandu Metro 8 - Gaushala Area": [
+      "Gaushala",
+      "Jayabageshwori",
+      "Pashupathinath",
+      "Pingalasthan",
+      "Ram Mandir"
+    ],
+    "Kathmandu Metro 9 - Sinamangal Area": [
+      "Airport",
+      "Battisputali",
+      "Gaurigaun",
+      "Old Baneshwor",
+      "Sinamangal",
+      "Tilganga"
+    ],
+    "Kathmandu Outside Ring Road": [
+      "Bouddha Area - Dibya Nagar",
+      "Bouddha Area - Kumarigal",
+      "Bouddha Area - Nayabasti",
+      "Boudha Area",
+      "Boudha Area - Fulbari",
+      "Boudha Area - Mahankal Panitanki",
+      "Boudha Area - Tushal",
+      "Budhanilkantha - Baluwakhani",
+      "Budhanilkantha - Basbari Area",
+      "Budhanilkantha - Budhanilkantha Nayapul",
+      "Budhanilkantha - Chapali Area",
+      "Budhanilkantha - Chunikhel Buspark Area",
+      "Budhanilkantha - Golfutar Area",
+      "Budhanilkantha - Hatiigauda Area",
+      "Budhanilkantha - Kapan Akasedhara",
+      "Budhanilkantha - Kapan Bangalamukhi Area",
+      "Budhanilkantha - Kapan Chauki Area",
+      "Budhanilkantha - Kapan Ekatabasti Area",
+      "Budhanilkantha - Kapan Faika Chowk",
+      "Budhanilkantha - Kapan Ram mandir",
+      "Budhanilkantha - Kapan Saraswotinagar",
+      "Budhanilkantha - Kapan Sattale Area",
+      "Budhanilkantha - Mandikhatar Area",
+      "Budhanilkantha - Narayanthan Temple Area",
+      "Budhanilkantha - Paiyatar Area",
+      "Budhanilkantha - Pasikot Area",
+      "Chandragiri - Balambu Area",
+      "Chandragiri - Dahachowk",
+      "Chandragiri - Gurjudhara Area",
+      "Chandragiri - Kalanki Area",
+      "Chandragiri - Khadka Gaun",
+      "Chandragiri - Macchegaun",
+      "Chandragiri - Matatirtha Area",
+      "Chandragiri - Nagdhunga",
+      "Chandragiri - Satungal Area",
+      "Chandragiri - Thankot Checkpost Area",
+      "Chandragiri - Tinthana Area",
+      "Dakshinkali - Chalnakhel",
+      "Dakshinkali - Pharping",
+      "Gokarneshwar - Arubari",
+      "Gokarneshwar - Attarkhel Area",
+      "Gokarneshwar - Besigaun",
+      "Gokarneshwar - Jagdol",
+      "Gokarneshwar - Jorpati Area",
+      "Gokarneshwar - Jorpati Narayantar",
+      "Gokarneshwar - Jorpati Nayabasti",
+      "Gokarneshwar - Makalbari",
+      "Gokarneshwar - Makalbari Dakshindhoka",
+      "Gokarneshwar - Sundarijal",
+      "Gokarneshwar - Tinchuli",
+      "Gokarneshwor - Namgel",
+      "Gokarneshwor - Nayapati",
+      "Gokarneshwor Temple Area",
+      "Kageshwori Manohara - Bramhakhel Chowk",
+      "Kageshwori Manohara - Gothatar Tej Binayak Chowk",
+      "Kageshwori Manohara - Green Hill City Area",
+      "Kageshwori Manohara - Mulpani",
+      "Kageshwori Manohara - Thali",
+      "Kirtipur - Buspark Area",
+      "Kirtipur - Chovar",
+      "Kirtipur - Nayabazar Area",
+      "Kirtipur - Panga Area",
+      "Kirtipur - Taudaha",
+      "Kirtipur - TU Area",
+      "Kirtipur - Tyanglaphat Area",
+      "Nagarjun - Banasthali Kharibot Chowk",
+      "Nagarjun - Bhimdunga",
+      "Nagarjun - Boharatar Area",
+      "Nagarjun - Buddha Park Area",
+      "Nagarjun - Dadapauwa Ramkot Area",
+      "Nagarjun - Naya Naikap",
+      "Nagarjun - Nursery chowk",
+      "Nagarjun - Padma Colony",
+      "Nagarjun - Purano Naikap",
+      "Nagarjun - Radhakrishna mandir",
+      "Nagarjun - Sano Bharyang Area",
+      "Nagarjun - Saranpur",
+      "Nagarjun - Sitapaila Area",
+      "Nagarjun - Soltee Dobato Area",
+      "Nagarjun - Syuchatar",
+      "Nagarjun - Thulo Bharyang Area",
+      "Nagarjun - Thulo Bharyang Buddha Chowk",
+      "Nagarjun - Thulo Bharyang Gairigaun",
+      "Nagarjun - Thulo Bharyang Namgel Chowk",
+      "Nagarjun - Thulo Bharyang Tindhara",
+      "Nagarjun - White Gumba",
+      "Shankharapur - Salambutar",
+      "Shankharapur - Sankhu",
+      "Tarakeshwor - Dandagaun Area",
+      "Tarakeshwor - Dharmasthali",
+      "Tarakeshwor - Goldhunga Nagarjun School Area",
+      "Tarakeshwor - Hiledol Area",
+      "Tarakeshwor - Jarankhu Area",
+      "Tarakeshwor - Kavresthali Buspark Area",
+      "Tarakeshwor - Lolang Area",
+      "Tarakeshwor - Manamaiju Area",
+      "Tarakeshwor - Nepaltar Area",
+      "Tarakeshwor - Phutung Bus Stop Area",
+      "Tarakeshwor - Purano Gueshwari Area",
+      "Tokha - Baniyatar",
+      "Tokha - Basundhara Area",
+      "Tokha - Bhatke Ko Pool",
+      "Tokha - Bhutkhel",
+      "Tokha - Dhapasi Area",
+      "Tokha - Gongabu Area",
+      "Tokha - Grande Area",
+      "Tokha - Jalpachowk",
+      "Tokha - Suryadarshan Height",
+      "Tokha - Tokha Ganeshthan Area"
+    ]
+  },
+  "Bhaktapur": {
+    "Bhaktapur": [
+      "Balkot Area",
+      "Biruwa Buspark Area",
+      "Bode",
+      "Duwakot",
+      "Gaththaghar Area",
+      "Jagati Area",
+      "Kamalbinayak Area",
+      "Katunje Area",
+      "Kausaltar Area",
+      "Kharipati",
+      "Lohakanthali Area",
+      "New Thimi",
+      "Old Thimi",
+      "Palanse",
+      "Sallaghari Area",
+      "Sano Thimi Area",
+      "Sirutar",
+      "Suryabinayak Area"
+    ]
+  },
+  "Banepa": {
+    "Banepa": [
+      "Banepa Chowk Area",
+      "Bhainsepati Area",
+      "Chandeshwori Temple Area",
+      "Nala",
+      "Naya Basti Area",
+      "Sanga",
+      "Tindobato Area",
+      "Ugratara Janagal Bus Stop Area"
+    ]
+  },
+  "Lalitpur": {
+    "Lalitpur": [
+      "Lalitpur Inside Ring Road",
+      "Lalitpur Outside Ring Road"
+    ]
+  }
+}
