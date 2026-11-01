@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /admin.html
-
-Sitemap: https://shreekunjaoptical.vercel.app/sitemap.xml
